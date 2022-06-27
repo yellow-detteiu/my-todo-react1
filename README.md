@@ -10,7 +10,7 @@
  
 ## リンク
 
-・Vercel
+・Vercel  
 　　https://my-todo-react1.vercel.app/
 
 ・CodeSandbox(こちらでもアプリを実行できます。こちらのReactのバージョンは17.0.2です。)  
