@@ -10,5 +10,5 @@
  
 ## リンク
 
-　CodeSandbox(こちらでもアプリを実行できます。こちらのReactのバージョンは17.0.2です。)  
+・CodeSandbox(こちらでもアプリを実行できます。こちらのReactのバージョンは17.0.2です。)  
   https://codesandbox.io/s/mytodo1-xcg6zq
