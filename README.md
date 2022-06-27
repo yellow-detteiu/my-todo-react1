@@ -6,5 +6,7 @@
 
 　TODOが表示されているテーブルの色を変えることができる機能も付けました。
  
-　CodeSandboxのリンクはコチラです。(こちらでもアプリを実行できます。こちらのReactのバージョンは17.0.2です。)  
+## リンク
+
+　CodeSandbox(こちらでもアプリを実行できます。こちらのReactのバージョンは17.0.2です。)  
   https://codesandbox.io/s/mytodo1-xcg6zq
