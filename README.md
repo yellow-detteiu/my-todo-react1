@@ -10,8 +10,10 @@
  
 ## リンク
 
+以下のリンクから、実際にアプリを実行することができます。
+
 ・Vercel  
 　https://my-todo-react1.vercel.app/
 
-・CodeSandbox(こちらでもアプリを実行できます。こちらのReactのバージョンは17.0.2です。)  
+・CodeSandbox(こちらのReactのバージョンは17.0.2です。)  
   　https://codesandbox.io/s/mytodo1-xcg6zq
